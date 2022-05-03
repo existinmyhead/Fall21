@@ -1,4 +1,6 @@
-Course Description:
+Course: Data Science I
+
+ourse Description:
 
 This course provides an overview of the mathematical techniques and computer tools needed in the field 
 of  data  science.  The  important  types  of  problems  addressed  in  the  field  of  data  science  are  rigorously  
